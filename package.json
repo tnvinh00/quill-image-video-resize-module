@@ -1,6 +1,6 @@
 {
   "name": "quill-image-video-resize-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module for Quill rich text editor to allow images & video to be resized.",
   "main": "image-resize.min.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tnvinh00/quill-video-resize-module.git"
+    "url": "git+https://github.com/tnvinh00/quill-image-video-resize-module.git"
   },
   "keywords": [
     "quill",
@@ -24,9 +24,9 @@
   "author": "@tnvinh00",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tnvinh00/quill-video-resize-module"
+    "url": "https://github.com/tnvinh00/quill-image-video-resize-module"
   },
-  "homepage": "https://github.com/tnvinh00/quill-video-resize-module#readme",
+  "homepage": "https://github.com/tnvinh00/quill-image-video-resize-module#readme",
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-eslint": "^7.2.1",
